@@ -28,7 +28,7 @@ Popular restaurants like Byg Brewski Brewing Company, Toit, and The Black Pearl 
 
 🖥️ Tools and Technologies Used
 Power BI: For data visualization and dashboard creation.
-Dataset: Zomato restaurant data (details of sourcing not included in this README).
+Dataset: Zomato restaurant data 
 
 🛠️ How to Use This Project
 Requirements:
@@ -50,12 +50,3 @@ Online delivery is a significant offering, with 3,730 restaurants adopting this 
 📝 Additional Notes
 This analysis is designed for business owners and analysts looking to understand customer preferences and market trends.
 The project can be extended with additional datasets for a deeper dive into restaurant operations or customer feedback.
-
-Copy code
-├── zomato-data-analysis.pbix  # Power BI file
-├── README.md                  # Documentation
-├── images/                    # zomato logo
-🚀 Future Scope
-1.Expand analysis to include time-based trends.
-2.Include customer reviews for sentiment analysis.
-3.Integrate with other visualization tools like Tableau.
